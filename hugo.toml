@@ -1,0 +1,4 @@
+baseURL = 'https://isnot.cloud/'
+languageCode = 'en-us'
+title = 'IsNot.Cloud'
+theme = 'ananke'
