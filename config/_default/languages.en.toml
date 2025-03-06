@@ -1,0 +1,16 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "IsNot.Studio"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+description = "A Place to Feel Something"
+dateFormat = "2 January 2006"
+author = { name = "Elliott", image = "img/pfp.jpeg", headline = "Native to Dayton, OH. Just a little reluctantly.", bio = "Retired with a price.", links = [ { instagram = "https://www.instagram.com/austinisnotkevin/" } ] }
+logo = "whiteAsset 31x.png"
+
+#[params.author]
+#image = "pfp.jpeg"
