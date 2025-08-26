@@ -7,16 +7,48 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Elliott</copyright>
-    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>two(makeSomething)</title>
+      <link>//localhost:1313/posts/twomakesomething/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/twomakesomething/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;A Place to Make Things 
+    &lt;div id=&#34;a-place-to-make-things&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#a-place-to-make-things&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;The Problem 
+    &lt;div id=&#34;the-problem&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#the-problem&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;I have a struggle inside my brain any time I decide it&amp;rsquo;s time to make things. Whether or not the art is worth making, or the statement worth stating, or the photo worthy of attention.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/twomakesomething/cover.jpg" />
+    </item>
     
     <item>
       <title>one(feelSomething)</title>
-      <link>//localhost:1313/posts/post-lite-one/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <link>//localhost:1313/posts/onefeelsomething/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post-lite-one/</guid>
+      <guid>//localhost:1313/posts/onefeelsomething/</guid>
       <description>Missing Art in My City.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-one/cover.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/onefeelsomething/cover.jpeg" />
     </item>
     
   </channel>
