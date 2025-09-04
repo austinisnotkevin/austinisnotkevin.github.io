@@ -1,7 +1,7 @@
 ---
 title: two(makeSomething)
 date: 2025-03-29
-draft: false
+draft: true
 description: An experiment of multiple Hugo sites on one server.
 tags:
   - example
